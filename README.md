@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @divyanshbhatt527
+- 👋 Hi, I'm Divyansh
 - 👀 I’m interested in Web Development and Blockchain Technology
 - 🌱 I’m currently learning web development using Flask
 - 📫 You can reach me here [Linkedin](https://www.linkedin.com/in/divyanshbhatt527) or [Instagram](https://www.instagram.com/divyansh_bhatt527/) or mail me @ divyanshbhatt527@gmail.com  
